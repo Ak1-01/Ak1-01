@@ -19,3 +19,18 @@ AWS Certified Software Engineer with expertise in backend development, workflow 
 ### 📂 Featured Project: Invoice Flow
 * **Multi-Tenant SaaS Cloud Architecture** built with AWS (Lambda, SQS, VPC, EC2), Terraform, and Docker.
 * Designed for high-concurrency event-driven microservices targeting 2M+ API calls/day.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ak1-01&show_icons=true&theme=radical&hide_border=true" alt="Akash's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1-01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📬 Connect With Me
+* **LinkedIn:** [linkedin.com/in/akash-dev-facets-aws](https://linkedin.com/in/akash-dev-facets-aws)
+* **Email:** akashpandey9795@gmail.com
