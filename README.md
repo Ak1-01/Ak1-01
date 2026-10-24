@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Akash Pandey 👋
 
-<!--
-**Ak1-01/Ak1-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Certified Software Engineer with expertise in backend development, workflow automation, and cloud infrastructure. 
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Building scalable serverless workflows and multi-tenant SaaS architectures.
+- ☁️ **Cloud & DevOps:** AWS (Lambda, SQS, EC2, VPC, S3, IAM, CloudWatch), Docker, Kubernetes, Terraform.
+- ⚙️ **Backend & Languages:** C#, .NET, Python, SQL / PL-SQL.
+- 🏥 **Healthcare IT:** TriZetto Facets (Claims, Eligibility, Membership, Provider), EDI (834, 837)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** C#, Python, SQL, T-SQL, PL/SQL
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Git, AWS CDK
+* **Databases & ETL:** SSMS, MySQL, DynamoDB, IBM DataStage, SSIS
+
+---
+
+### 📂 Featured Project: Invoice Flow
+* **Multi-Tenant SaaS Cloud Architecture** built with AWS (Lambda, SQS, VPC, EC2), Terraform, and Docker.
+* Designed for high-concurrency event-driven microservices targeting 2M+ API calls/day.
